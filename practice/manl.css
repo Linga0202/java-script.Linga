@@ -1,0 +1,31 @@
+body
+{
+   background-color: rgb(134, 134, 221);
+    
+
+}
+#counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 100px;
+    margin-top: 300px;
+    margin-left: 680px;
+    box-shadow: 5px 5px 50px rgb(0, 0, 0);
+    padding: 100px;
+
+}
+.class
+{
+   
+     height: 100px;
+    width: 150px;
+    font-size: 50px;
+}
+.btn
+{
+    display: flex;
+    padding: 10px;
+   
+}
