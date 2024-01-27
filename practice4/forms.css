@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(226, 226, 226);
+    color: aqua;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.forms
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+    
+    width: 500px;
+    background-color: rgb(55, 133, 133);
+    border-radius: 30px;
+   border: none;
+   
+
+}
+.sub 
+{
+  
+  padding: 10px;
+
+}
